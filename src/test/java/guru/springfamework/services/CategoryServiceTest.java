@@ -25,7 +25,6 @@ public class CategoryServiceTest {
     @Mock
     CategoryRepository categoryRepository;
 
-
     @Before
     public void setUp() throws Exception {
         MockitoAnnotations.initMocks(this);
